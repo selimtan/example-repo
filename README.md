@@ -1,2 +1,2 @@
-# Hello World
-This is my new repo.
+# Yeni Başlık
+Yeni içerik.
